@@ -5,7 +5,7 @@
 groups = ["default", "dev", "format"]
 strategy = ["inherit_metadata"]
 lock_version = "4.5.0"
-content_hash = "sha256:1c5352d3bc9084e827218cc9ab0cfb5b119ef7a139d68f1459e078d06bc58e06"
+content_hash = "sha256:9a672598874d22974e0dd11344344028f91c29051f8abca83197f538f3dc06e5"
 
 [[metadata.targets]]
 requires_python = ">=3.10"
@@ -708,15 +708,6 @@ groups = ["dev", "format"]
 files = [
     {file = "mypy_extensions-1.0.0-py3-none-any.whl", hash = "sha256:4392f6c0eb8a5668a69e23d168ffa70f0be9ccfd32b5cc2d26a34ae5b844552d"},
     {file = "mypy_extensions-1.0.0.tar.gz", hash = "sha256:75dbf8955dc00442a438fc4d0666508a9a97b6bd41aa2f0ffe9d2f2725af0782"},
-]
-
-[[package]]
-name = "netifaces"
-version = "0.11.0"
-summary = "Portable network interface information."
-groups = ["default"]
-files = [
-    {file = "netifaces-0.11.0.tar.gz", hash = "sha256:043a79146eb2907edf439899f262b3dfe41717d34124298ed281139a8b93ca32"},
 ]
 
 [[package]]
